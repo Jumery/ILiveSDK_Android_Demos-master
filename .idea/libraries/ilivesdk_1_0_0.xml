@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="ilivesdk-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/bugly_1.3.0_imsdk_release.jar!/" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/soload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/mobilepb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/qalsdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/beacon_android_v1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/qavsdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/barcodescanner-core-1.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/wup-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/imsdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.0.0/jars/libs/tls_sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.ilivesdk/ilivesdk/1.0.0/2279846a8b5c7eb25fc5f47d46b23bb4eaa0ddf/ilivesdk-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.ilivesdk/ilivesdk/1.0.0/2279846a8b5c7eb25fc5f47d46b23bb4eaa0ddf/ilivesdk-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

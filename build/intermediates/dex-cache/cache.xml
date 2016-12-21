@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_24b5257fecaa4d302743ad6218151fe8257c0181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\bugly_1.3.0_imsdk_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="61f5ff87f6c226bf1cc9b365a32a9d21a29dfd58">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\bugly_1.3.0_imsdk_release_3d16f5e38acafe1f493de9f444c52c35958b429e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\soload.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffaa822d7aa3dba07f8a2a32a271162a15df8f50">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\soload_1ced2ed57828238135afcbf1e52c6a5be49d91e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9b4d9242f3adc2560e87ecd017d540da1b393a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_0bf3972f8785ae9ca5336f275039144dd6d989ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_aa84dea4774bce97347d0c2a996725cb35d1abd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_0c9f33951616d81a4da58c1c1abec1c0580e3404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0e64b60b519d32dd2308579ddc924eeb0a32e541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.livesdk\livesdk\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fa5a9fe88e514e4564bfc599d47101a681978b0a">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.tencent.livesdk-livesdk-1.0.0_aabde69efc9c3cb08c1ba98885a0df53c3500ad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eeaa996694f5438bcf86b5f648572d9b521e68b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\barcodescanner-core-1.8.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1e5d92a9be42d638f3ff47cfaa87ecb15558bec">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\barcodescanner-core-1.8.4_fbd4e3f3a08a90c71a49940a12c9aa2241a7c915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\qalsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b1d71a7366b6c86b2cf7fa42c4bee05d0184dea">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\qalsdk_edfbf9f46fe44c82e449078bb0c581b5c8816397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\ILiveSDK_Android_Demos-master\suixinbo\unspecified\jars\libs\upload_1.1.3.332_4478.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5da9c0e3e31fb9a7825da00d06afbef43b1f65e3">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\upload_1.1.3.332_4478_f1d1ff1897111e1d5d5a1ac4cc4ccda082778480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b140e55a0a6a7c640d28d5daaae32dd60bad088e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\beacon_android_v1.9.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c1795973b0bda4a83f0860a9610ad23e336f133d">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\beacon_android_v1.9.9_b187835e114722f211b2730bd972d169b4204753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1_3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9c47a2c9b9f869f066ba1ded15bbbeaba993ebab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\imsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="691190fec20f705c0b4daa8351f6bd4a123511a6">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\imsdk_42bbf7bd56a99be75960561dd4f4a91f01605c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\qavsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80a3d6841078c300ef21468b1ff06057cd08c44a">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\qavsdk_2f4516886ef9b3538aec23493dc9a09e7cab3f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\ILiveSDK_Android_Demos-master\suixinbo\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="401ff411dc35dad7ccb97b6381bdf472095b1a45">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\ILiveSDK_Android_Demos-master-suixinbo-unspecified_6e535d6c99aee063391b207134d1ffc919fedf4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_dff0410e27996f31ebad45d398665e0063d779f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\ILiveSDK_Android_Demos-master\tdemolive\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c97ad17e5ed671ed2d71a3a800c31f27f079cb2">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\ILiveSDK_Android_Demos-master-tdemolive-unspecified_97664f698e298ee5a8b20bcb3a7d273faccb2399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_d656d81d1fe474ad2bb40d7a3a8b5fc44975b310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="10bb5e0e2a5677fef0e941b2457741f2feff6676">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\wup-1.0.0-SNAPSHOT_63451939ae724e6c595421e5f7ae7306880dd8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_f8cff6225435fa72b3d9eab9a0d4b59c8d4ba4a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_259a70faf8654052053ffecf9976fb1e3a361a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf4cf0f9078015f00daf99d3571d52d39d5a0923">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.tencent.ilivesdk-ilivesdk-1.0.0_036f39dbd6fdba738394b7c33b4f838bd2b41447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_6501402fd4d27c247d22652a2a2a76b8f5af28fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\AndroidStudio\androidstudio_sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3f7c420924a986935759a8452361e06bd3d905b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\mobilepb.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3bcae3680ad03f37f47ca3624a5df5f36b9d6fe6">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\mobilepb_e646e97bee104158919797b8f10b10f273422589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\exploded-aar\com.tencent.ilivesdk\ilivesdk\1.0.0\jars\libs\tls_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ab642b2157244fb2547efbf9b69d7b4afd4e83f7">
+        <dex dex="D:\IE\ILiveSDK_Android_Demos-master\app\build\intermediates\pre-dexed\debug\tls_sdk_9fd325e15a69b1e5664e69bc8832c73a77baf95e.jar" />
+    </item>
+
+</items>

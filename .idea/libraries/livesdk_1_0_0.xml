@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="livesdk-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.livesdk/livesdk/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/suixinbo/build/intermediates/exploded-aar/com.tencent.livesdk/livesdk/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.livesdk/livesdk/1.0.0/da41511d7b822e090264decade4b676c5ebee31a/livesdk-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.livesdk/livesdk/1.0.0/da41511d7b822e090264decade4b676c5ebee31a/livesdk-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
